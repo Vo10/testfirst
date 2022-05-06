@@ -1,0 +1,4 @@
+首先在本地新建一个test.txt文件。
+执行增加命令：git add . （add后面的点，表示的是提交所有文件。如果想指定提交文件，可以写文件名）
+执行提交命令：git commit -m "第一次提交github的测试" 。（-m 后面是提示信息）
+执行推送命令：git push git@github.com:Vo10/testfirst.git
